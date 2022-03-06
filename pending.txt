@@ -1,0 +1,16 @@
+1)Create login,product and logout functionality
+*we should maintain the authentication using JWT token--completed
+*should save the password after changed it into hashcode--completed
+*Better to store small data(usedid and profile info) in redis.
+*Use bootstrap or flex for responsive.--WIP
+2)Add the social logins.
+3)Need to implement the reducx concept as much as possible.
+4)use nginx for proxy.
+5)use async module to maintain the asynchronous and to avioid callback hell.
+6)Create logger(Ex:morgan)
+
+
+React:
+1)Add validations to login and signup forms
+2)i have used the document.cookie, it better to use the react-cookie if you aware of it.
+and do the redirect once we done with setting up cookie in login or signup call response.

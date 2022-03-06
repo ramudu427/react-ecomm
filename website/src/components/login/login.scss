@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+.loginBlock {
+    border: 1px solid gray;
+    background: white;
+    padding: 30px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: auto;
+    top: 150px;
+    box-shadow: 6px -5px 6px 0px #007bffa1;
+
+}
+.w-100 {
+    width: 100%;
+}
+button {
+    background-color: blueviolet;
+}
+.bgBlueviolet, .bgBlueviolet:focus,
+.bgBlueviolet:hover{
+    background-color: blueviolet;
+}
+.bgBLueviolet {
+    background-color: blueviolet;
+}
